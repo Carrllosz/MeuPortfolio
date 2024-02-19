@@ -12,8 +12,6 @@ const Home = () => {
           <h2>Desenvolvedor Front-end e Mobile</h2>
         </div>
       </div>
-      <div className='mx-auto px-4 flex justify-center' style={{ width: '90vh', height: '40vh', backgroundColor: '#3589A1', borderRadius: '50%', position: 'relative', bottom: "18vh" }}>
-      </div>
     </div>
   );
 };
